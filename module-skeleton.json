@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-usage-wallet-and-rebilling-nextjs",
+  "capabilityKey": "liberusoftware/module-crm-usage-wallet-and-rebilling",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-crm-usage-wallet-and-rebilling-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/crm/nextjs/usage-wallet-and-rebilling.md",
+  "presentationPlan": "projects/crm/nextjs/usage-wallet-and-rebilling.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
